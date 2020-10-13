@@ -1,3 +1,4 @@
+/*
 package com.lockdown.learning.userservice.config;
 
 import com.mongodb.ConnectionString;
@@ -15,7 +16,6 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
-//@Configuration
 @Slf4j
 public class MongoConfig extends AbstractMongoClientConfiguration{
 
@@ -64,3 +64,4 @@ public class MongoConfig extends AbstractMongoClientConfiguration{
         return Collections.singleton("com.lockdown.learning.userservice.repository");
     }
 }
+*/
